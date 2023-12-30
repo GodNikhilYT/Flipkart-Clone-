@@ -1,0 +1,1275 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #e5e8ee;
+}
+
+.navbar {
+    background-color: white;
+    display: flex;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 99999999999999;
+}
+
+.Flipkart-logo-img img {
+    width: 130px;
+    height: 22px;
+}
+
+#Flipkart-logo-explore {
+    color: #9e9e9e;
+    font-style: italic;
+    margin-left: 4px;
+}
+
+#plus {
+    color: #ffc200;
+}
+
+.Flipkart-logo-explore-all {
+    margin-left: 36px;
+}
+
+.Flipkart-logo {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.Search input {
+    background-color: #94b6ffa5;
+    border-radius: 6px;
+    border: none;
+    height: 40px;
+    width: 550px;
+    margin-left: 50px;
+    padding-left: 10px;
+}
+
+.Search {
+    padding-top: 5px;
+}
+
+.Become-a-seller {
+    display: flex;
+    margin-left: 20px;
+}
+
+.Become-a-seller-img img {
+    margin-top: 12px;
+}
+
+.Become-a-seller-text {
+    margin-left: 4px;
+    cursor: pointer;
+}
+
+.Become-a-seller-01 {
+    display: flex;
+    margin-left: 60px;
+}
+
+.Become-a-seller-02 {
+    display: flex;
+    margin-left: 70px;
+}
+
+.margi {
+    margin-top: 63px;
+}
+
+.box-brand {
+    background-color: white;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.box-brand-size {
+    margin-left: 6px;
+    margin-right: 52px;
+    cursor: pointer;
+}
+
+.sect-01 {
+    margin-top: 20px;
+}
+
+.sect-01 img {
+    width: 1303px;
+    height: 265px;
+}
+
+.three_dot {
+    cursor: pointer;
+}
+
+.sect-03 img {
+    width: 1280px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.sect_one_div {
+    /* border: 1px solid black;*/
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 12px;
+    margin-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 12px;
+
+}
+
+.sect_one_div p {
+    /* padding-bottom: 10px;*/
+    padding-left: 12px;
+    font-size: 20px;
+    cursor: pointer;
+    /* font-weight: bold;*/
+}
+
+.img_of_product {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px;
+    padding-right: 17px;
+}
+
+.img_of_product img:hover {
+    transform: scale(1.02);
+}
+
+.img_of_product p:hover {
+    cursor: pointer;
+}
+
+.Div-flex {
+    display: flex;
+}
+
+.sect-div-only-img {
+    margin-top: 16px;
+    display: flex;
+    margin-left: 10px;
+    background-color: white;
+    margin-right: 10px;
+}
+
+.sect-div-only-img img {
+    width: 421px;
+    padding-right: 10px;
+}
+
+.sect-div-only-img img:hover {
+    cursor: pointer;
+}
+
+/*Start to section no 05 is design ---------------      Design by Nikhil choudhary*/
+.Div-flex1 {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.sect_one_div1 p {
+    padding-left: 12px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.img_of_product1 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px;
+    padding-right: 17px;
+}
+
+.sect_one_div1 {
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 12px;
+    margin-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 12px;
+}
+
+.img_of_product1-auto-design1 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px;
+    padding-right: 17px;
+}
+
+.img_of_product1-auto-design1 img {
+    height: 217px;
+    width: 332px;
+    padding-top: 60px;
+}
+
+.img_of_product1-auto-design1 img:hover {
+    transform: scale(1.02);
+}
+
+.img_of_product1-auto-design1 p:hover {
+    cursor: pointer;
+}
+
+.img_of_product1-auto-design2 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px;
+    padding-right: 17px;
+}
+
+.img_of_product1-auto-design2 img {
+    height: 185px;
+    width: 313px;
+    padding-top: 60px;
+}
+
+.img_of_product1-auto-design2 img:hover {
+    transform: scale(1.02);
+}
+
+.img_of_product1-auto-design2 p:hover {
+    cursor: pointer;
+}
+
+.img_of_product1-auto-design3 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px;
+    padding-right: 17px;
+}
+
+.img_of_product1-auto-design3 img {
+    height: 185px;
+    width: 313px;
+    padding-top: 60px;
+}
+
+.img_of_product1-auto-design3 img:hover {
+    transform: scale(1.02);
+}
+
+.img_of_product1-auto-design3 p:hover {
+    cursor: pointer;
+}
+
+.img_of_product1-auto-design4 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px;
+    padding-right: 17px;
+}
+
+.img_of_product1-auto-design4 img {
+    height: 333px;
+    width: 223px;
+}
+
+.img_of_product1-auto-design4 img:hover {
+    transform: scale(1.02);
+}
+
+.img_of_product1-auto-design4 p:hover {
+    cursor: pointer;
+}
+
+.img_of_product1-auto-design5 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px;
+    padding-right: 17px;
+    margin-right: 20px;
+}
+
+.img_of_product1-auto-design5 img {
+    height: 332px;
+    width: 180px;
+}
+
+.img_of_product1-auto-design5 img:hover {
+    transform: scale(1.02);
+}
+
+.img_of_product1-auto-design5 p:hover {
+    cursor: pointer;
+}
+
+/*Section 6 is degin*/
+.sect6 {
+    margin-top: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+}
+
+.shop-for-office-study-chairs {
+    background-color: white;
+}
+
+.include-two-div {
+    /*border: 2px solid blue;*/
+    display: flex;
+}
+
+.include-two-div1 {
+    /* border: 2px solid blue;*/
+    display: flex;
+}
+
+.add-your-product-paragraph {
+    padding-left: 27px;
+}
+
+.item1 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    margin-left: 25px;
+    margin-right: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item1 img {
+    height: 170px;
+    width: 170px;
+    border-radius: 2px;
+}
+
+.item1 img:hover {
+    transform: scale(1.02);
+}
+
+#span01 {
+    color: #108934;
+}
+
+#para01 {
+    cursor: pointer;
+}
+
+.item2 img {
+    height: 170px;
+    width: 170px;
+}
+
+.item2 img:hover {
+    transform: scale(1.02);
+}
+
+.item2 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    /*  margin-left: 10px;*/
+    margin-right: 25px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item11 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    margin-left: 25px;
+    margin-right: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item11 img {
+    height: 170px;
+    width: 170px;
+    border-radius: 2px;
+}
+
+.item11 img:hover {
+    transform: scale(1.02);
+}
+
+.item22 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    /* margin-left: 10px;*/
+    margin-right: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item22 img {
+    height: 170px;
+    width: 170px;
+    border-radius: 2px;
+}
+
+.item22 img:hover {
+    transform: scale(1.02);
+}
+
+.shop-for-office-study-chairs1 {
+    background-color: white;
+    margin-left: 17px;
+}
+
+.item01 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    margin-left: 25px;
+    margin-right: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item01 img {
+    height: 170px;
+    width: 124px;
+    border-radius: 2px;
+}
+
+.item01 img:hover {
+    transform: scale(1.02);
+}
+
+.item02 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    /* margin-left: 10px;*/
+    margin-right: 25px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item02 img {
+    height: 170px;
+    width: 150px;
+    border-radius: 2px;
+}
+
+.item02 img:hover {
+    transform: scale(1.02);
+}
+
+.item011 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    margin-left: 25px;
+    margin-right: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item011 img {
+    height: 170px;
+    width: 124px;
+    border-radius: 2px;
+}
+
+.item011 img:hover {
+    transform: scale(1.02);
+}
+
+.item022 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    /* margin-left: 10px;*/
+    margin-right: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item022 img {
+    height: 170px;
+    width: 150px;
+    border-radius: 2px;
+}
+
+.item022 img:hover {
+    transform: scale(1.02);
+}
+
+.shop-for-office-study-chairs2 {
+    background-color: white;
+    margin-left: 20px;
+}
+
+.item001 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    margin-left: 25px;
+    margin-right: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item001 img {
+    height: 170px;
+    width: 150px;
+    border-radius: 2px;
+}
+
+.item001 img:hover {
+    transform: scale(1.02);
+}
+
+.item0002 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    margin-right: 25px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item0002 img {
+    height: 170px;
+    width: 170px;
+    border-radius: 2px;
+}
+
+.item0002 img:hover {
+    transform: scale(1.02);
+}
+
+.item0011 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    margin-left: 25px;
+    margin-right: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    height: 240px;
+    width: 150px;
+}
+
+.item0011 img {
+    height: 170px;
+    width: 110px;
+    border-radius: 2px;
+}
+
+.item0011 img:hover {
+    transform: scale(1.02);
+}
+
+.item0022 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    padding-left: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    height: 240px;
+    width: 170px;
+}
+
+.item0022 img {
+    height: 170px;
+    width: 120px;
+    border-radius: 2px;
+}
+
+.item0022 img:hover {
+    transform: scale(1.02);
+}
+
+.add-your-product-paragraph p {
+    cursor: pointer;
+}
+
+/*                       * Design section 07 *                                     */
+.sect7-div {
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 20px;
+}
+
+.sect7-div-flex {
+    display: flex;
+}
+
+.sect7-div-img1 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sec7-div-title {
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+
+.sec7-div-title p {
+    color: #212121;
+    font-size: x-large;
+}
+
+#sect7para7 {
+    color: #212121;
+    cursor: pointer;
+}
+
+.sec7-div-title p:hover {
+    cursor: pointer;
+}
+
+.sect7-div-img1 img {
+    height: 200px;
+    width: 146px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect7-div-img2 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect7-div-img2 img {
+    height: 200px;
+    width: 215px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect7-div-img3 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect7-div-img3 img {
+    height: 200px;
+    width: 160px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 34px;
+    padding-right: 20px;
+}
+
+.sect7-div-img4 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect7-div-img4 img {
+    height: 200px;
+    width: 130px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.sect7-div-img5 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect7-div-img6 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect7-div-img5 img {
+    height: 200px;
+    width: 100px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 34px;
+    padding-right: 34px;
+}
+
+.sect7-div-img6 img {
+    height: 200px;
+    width: 84px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.sect7-div-img1 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect7-div-img2 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect7-div-img3 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect7-div-img4 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect7-div-img5 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect7-div-img6 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+/*                       * Design section 08 *                                     */
+.sect8-div-product-background {
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 20px;
+}
+
+.product-08-name {
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+
+.product-08-name p {
+    color: #212121;
+    font-size: x-large;
+}
+
+.product-08-name p:hover {
+    cursor: pointer;
+}
+
+.sect8-div-product-flex {
+    display: flex;
+}
+
+.sect8-div-no1 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect8-div-no1 img {
+    width: 146px;
+    height: 172px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect8-div-no1 {
+    height: 245px;
+    width: 172px;
+}
+
+.sect8-div-no1 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect8-div-no1 p {
+    cursor: pointer;
+    color: #212121;
+}
+
+.sect8-div-no2 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect8-div-no2 img {
+    width: 98px;
+    height: 172px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 38px;
+    padding-right: 55px;
+}
+
+.sect8-div-no2 {
+    height: 245px;
+    width: 172px;
+}
+
+.sect8-div-no2 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect8-div-no2 p {
+    cursor: pointer;
+    color: #212121;
+}
+
+.sect8-div-no3 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect8-div-no3 img {
+    width: 175px;
+    height: 172px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect8-div-no3 {
+    height: 245px;
+    width: 213px;
+}
+
+.sect8-div-no3 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect8-div-no3 p {
+    cursor: pointer;
+    color: #212121;
+}
+
+.sect8-div-no4 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect8-div-no4 img {
+    width: 150px;
+    height: 172px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 22px;
+    padding-right: 10px;
+}
+
+.sect8-div-no4 {
+    height: 245px;
+    width: 195px;
+}
+
+.sect8-div-no4 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect8-div-no4 p {
+    cursor: pointer;
+    color: #212121;
+}
+
+
+.sect8-div-no5 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect8-div-no5 img {
+    width: 150px;
+    height: 172px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect8-div-no5 {
+    height: 245px;
+    width: 170px;
+}
+
+.sect8-div-no5 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect8-div-no5 p {
+    cursor: pointer;
+    color: #212121;
+}
+
+
+.sect8-div-no6 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect8-div-no6 img {
+    width: 172px;
+    height: 172px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect8-div-no6 {
+    height: 245px;
+    width: 192px;
+}
+
+.sect8-div-no6 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect8-div-no6 p {
+    cursor: pointer;
+    color: #212121;
+}
+
+.sect9-div-product-background {
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 20px;
+}
+
+.sect9-div-name {
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+
+.sect9-div-name p {
+    cursor: pointer;
+    color: #212121;
+}
+
+.sect9-div-name p {
+    color: #212121;
+    font-size: x-large;
+}
+
+.sect9-div-flex {
+    display: flex;
+}
+
+.sect9-div-no1 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+
+.sect9-div-no1 img {
+    width: 195px;
+    height: 225px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect9-div-no1 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect9-div-no2 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px
+}
+
+.sect9-div-no2 img {
+    width: 220px;
+    height: 225px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect9-div-no2 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect9-div-no3 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px
+}
+
+.sect9-div-no3 img {
+    width: 182px;
+    height: 225px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect9-div-no3 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect9-div-no4 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px
+}
+
+.sect9-div-no4 img {
+    width: 155px;
+    height: 155px;
+    border-radius: 2px;
+    padding-top: 42px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect9-div-no4 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect9-div-no5 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px
+}
+
+.sect9-div-no5 img {
+    width: 160px;
+    height: 180px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect9-div-no5 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sect9-div-no6 {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 4px;
+    margin-left: 10px
+}
+
+.sect9-div-no6 img {
+    width: 146px;
+    height: 190px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sect9-div-no6 img:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+#cut-line-rs{
+    text-decoration: line-through;
+}
+/*///////////////////////////////////Footer Design///////////////////////////////////////////////////*/
+.list-01 ul li{
+    list-style: none;
+    color: #fff;
+    font-size: 14px;
+}
+.list-01 ul li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.list-02 ul li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.list-03 ul li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.list-04 ul li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.list-06 ul li:hover{
+    cursor: default;
+}
+.list-07 ul li:hover{
+    cursor: default;
+}
+.list-02 ul li{
+    list-style: none;
+    color: #fff;
+    font-size: 14px;
+}
+.list-03 ul li{
+    list-style: none;
+    color: #fff;
+    font-size: 14px;
+}
+.list-04 ul li{
+    list-style: none;
+    color: #fff;
+    font-size: 14px;
+}
+.list-06 ul li{
+    list-style: none;
+    color: #fff;
+    font-size: 14px;
+}
+.list-07 ul li{
+    list-style: none;
+    color: #fff;
+    font-size: 14px;
+}
+.list-07{
+    padding-left: 30px;
+}
+.footer2{
+    display: flex;
+}
+.footer-nav ul li{
+    list-style: none;
+    float: left; 
+    padding-left: 50px;
+    padding-right: 18px;
+}
+#footer-nav-img5{
+    cursor: default;
+    color: #fff;
+    font-size: 13px;
+}
+#footer-nav-img1 img{
+    cursor: default;
+    height: 12px;
+    width: 12px;
+}
+#footer-nav-img1{
+    cursor: pointer;
+    color: #fff;
+    font-size: 13px;
+}
+#footer-nav-img2 img{
+    cursor: default;
+    height: 12px;
+    width: 12px;
+}
+#footer-nav-img2{
+    cursor: pointer;
+    color: #fff;
+    font-size: 13px;
+}
+#footer-nav-img3 img{
+    cursor: default;
+    height: 12px;
+    width: 12px;
+}
+#footer-nav-img3{
+    cursor: pointer;
+    color: #fff;
+    font-size: 13px;
+}
+#footer-nav-img4 img{
+    cursor: default;
+    height: 12px;
+    width: 12px;
+}
+#footer-nav-img4{
+    cursor: pointer;
+    color: #fff;
+    font-size: 13px;
+}
+.footer-nav ul{
+    overflow: auto;
+}
+.Manage-footer {
+    background-color: #232223;
+
+}
+.list-05{
+    border: 1px solid rgb(255, 255, 255);
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    padding-left: 75px;
+}
+.footer1{
+    padding-top: 40px;
+    
+}
+.list-01{
+    padding-left: 45px;
+}
+.list-02{
+    padding-left: 40px;
+}
+.list-03{
+    padding-left: 40px;
+}
+.list-04{
+    padding-left: 40px;
+}
+.list-06{
+    padding-left: 40px;
+}
+#span01-footer {
+    cursor: pointer;
+    color: blue;
+}
+.footer-nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#footer-nav-para01{
+    color: #878787;
+    font-size: 15px;
+    cursor: default;
+    padding-bottom: 15px;
+}
