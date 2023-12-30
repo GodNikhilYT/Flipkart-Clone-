@@ -1,7 +1,7 @@
-*{
+/*{
     margin: 0;
     padding: 0;
-}
+}*/
 body {
     margin: 0;
     padding: 0;
@@ -1170,7 +1170,7 @@ body {
     font-size: 14px;
 }
 .list-07{
-    padding-left: 30px;
+    padding-left: 0px;
 }
 .footer2{
     display: flex;
@@ -1241,35 +1241,35 @@ body {
     padding-left: 75px;
 }
 .footer1{
-    padding-top: 40px;
+    padding-top: 27px;
     
 }
 .list-01{
-    padding-left: 45px;
+    padding-left: 30px;
 }
 .list-02{
-    padding-left: 40px;
+    padding-left: 0px;
 }
 .list-03{
-    padding-left: 40px;
+    padding-left: 0px;
 }
 .list-04{
-    padding-left: 40px;
+    padding-left: 0px;
 }
 .list-06{
-    padding-left: 40px;
+    padding-left: 0px;
 }
 #span01-footer {
     cursor: pointer;
     color: blue;
 }
 .footer-nav{
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 0px;
+    padding-bottom: 01px;
 }
 #footer-nav-para01{
     color: #878787;
     font-size: 15px;
     cursor: default;
-    padding-bottom: 15px;
+    padding-bottom: 2px;
 }
